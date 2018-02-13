@@ -13,7 +13,7 @@ and more
   * [Abby Beeler](https://cornelldata.science) (CS 2020)  
 * DL Course  
   * [Ryan Butler](https://cornelldata.science) (CS 2019)  
-  * [Abby Beeler](https://cornelldata.science) (CS 2019)  
+  * [Yuji Akimoto](https://cornelldata.science) (CS 2019)  
 * DE Course  
   * [Dae Won Kim](https://cornelldata.science) (ORIE MENG)  
   * [Haram Kim](https://cornelldata.science) (CS 2020)  
