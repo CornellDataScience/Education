@@ -1,3 +1,4 @@
+# CDS Education
 [![CDS Education Logo](images/Education-logo.png)](https://cornelldata.science)
 
 ## Who we are:
