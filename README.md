@@ -1,6 +1,6 @@
 # CDS Education
 
-[![CDS Education Logo](images/Educate logo.png)](cornelldata.science)
+![CDS Education Logo](images/Educate logo.png)(cornelldata.science)
 
 ## Who we are:
 The CDS Education subteam exists to provide training courses on both fundamental machine learning materials and cutting edge technologies, providing a stepping stone to prospective applicants and CDS project teams.
