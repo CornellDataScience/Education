@@ -1,7 +1,6 @@
 # CDS Education
 
 ![CDS Education Logo](images/Education-logo.png)
-
 ## Who we are:
 The CDS Education subteam exists to provide training courses on both fundamental machine learning materials and cutting edge technologies, providing a stepping stone to prospective applicants and CDS project teams.
 
