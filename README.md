@@ -7,10 +7,10 @@ The CDS Education subteam exists to provide training courses on both fundamental
 and more
 
 **Advisor:** [Professor David Mimno](https://mimno.infosci.cornell.edu/)  
-**Team Lead:** [Jared Lim](https://github.com/JunyoungLim) (CS 2020)  
+**Team Lead:** [Jared Junyoung Lim](https://github.com/JunyoungLim) (CS 2020)  
 **Course Instructors:**
 * ML Course  
-  * [Jared Lim](https://github.com/JunyoungLim) (CS 2020)  
+  * [Jared Junyoung Lim](https://github.com/JunyoungLim) (CS 2020)  
   * [Abby Beeler](https://cornelldata.science) (CS 2020)  
 * DL Course  
   * [Ryan Butler](https://cornelldata.science) (CS 2019)  
