@@ -11,13 +11,13 @@ and more
 **Course Instructors:**
 * ML Course  
   * [Jared Junyoung Lim](https://github.com/JunyoungLim) (CS 2020)  
-  * [Abby Beeler](https://cornelldata.science) (CS 2020)  
+  * [Abby Beeler](https://github.com/AbbyB) (CS 2020)  
 * DL Course  
-  * [Ryan Butler](https://cornelldata.science) (CS 2019)  
-  * [Yuji Akimoto](https://cornelldata.science) (CS 2019)  
+  * [Ryan Butler](https://github.com/TheButlah) (CS 2019)  
+  * [Yuji Akimoto](https://github.com/yujiakimoto) (CS 2019)  
 * DE Course  
-  * [Dae Won Kim](https://cornelldata.science) (ORIE MENG)  
-  * [Haram Kim](https://cornelldata.science) (CS 2020)  
+  * [Dae Won Kim](https://github.com/dwkwvss) (ORIE MENG)  
+  * [Haram Kim](https://github.com/haramkim-1) (CS 2020)  
 
 ## Team objectives:
 * and more
