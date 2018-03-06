@@ -26,5 +26,9 @@ and more
 * and more
 
 
-## Members (FA2017):
-* and more
+## Members (SP2018):
+* [Ryan Kannanaikal](https://github.com/rk635) (MATH 2020)
+* [Abby Beeler](https://github.com/AbbyB) (CS 2020)
+* [Abby Beeler](https://github.com/AbbyB) (CS 2020)
+* [Abby Beeler](https://github.com/AbbyB) (CS 2020)
+
