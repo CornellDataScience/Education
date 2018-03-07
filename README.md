@@ -27,8 +27,14 @@ and more
 
 
 ## Members (SP2018):
-* [Ryan Kannanaikal](https://github.com/rk635) (MATH 2020)
-* [Abby Beeler](https://github.com/AbbyB) (CS 2020)
-* [Abby Beeler](https://github.com/AbbyB) (CS 2020)
-* [Abby Beeler](https://github.com/AbbyB) (CS 2020)
+* ML Course Staffs
+  * [Ann Zhang] (https://github.com/) (CS | ECON 2020)
+  * [Ethan Cohen](https://github.com/ethanblake97) (INFO 2019)
+  * [Ryan Kannanaikal](https://github.com/rk635) (MATH 2020)
+  * [Shubhom Bhattacharya](https://github.com/shubhomb) (ECE 2020)  
+* DL Course Staffs
+  * [Upcoming] (https://cornelldata.science/) (ABC 202X)
+* DE Course Staffs
+  * [Upcoming] (https://cornelldata.science/) (ABC 202X)
+
 
