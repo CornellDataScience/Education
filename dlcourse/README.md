@@ -7,8 +7,12 @@ basic understanding of coding.
 ## Installation 
 To download all course material, type the following into the command-line:  
 ```bash
-git clone https://github.com/CornellDataScience/Deep-Learning-Course.git
+git clone https://github.com/CornellDataScience/Education.git
 ``` 
+then move to the current directory:
+```bash
+cd Deep-Learning-Course
+```
 For those with native pip, use the following to install all dependencies:
 ```bash
 pip install -r requirements.txt
