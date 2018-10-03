@@ -1,8 +1,0 @@
-# Required Python packages
-numpy
-scipy
-jupyter
-matplotlib
-scikit-learn
-tensorflow
-six
